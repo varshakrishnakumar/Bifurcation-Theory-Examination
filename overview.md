@@ -118,7 +118,7 @@ In *Figure 4*, the conditions $\tau_1 = 0$ and $\tau_2 = 4$ are assumed. Given t
 
 [^7]: Song, H., Wang, Q., and Jiang, W., “Stability and Hopf bifurcation of a computer virus model with infection delay and recovery delay,” Journal of Applied Mathematics: https://www.hindawi.com/journals/jam/2014/929580/#EEq1.2. 
 
-While the present research on computer virus models is detailed, most models do not completely explain all dynamics of the ODE models of computer viruses. Predictably, there are numerous unreviewd factors that could affect computer virus models.  
+While the present research on computer virus models is detailed, most models do not completely explain all dynamics of the ODE models of computer viruses. Predictably, there are numerous unreviewed factors that could affect computer virus models.  
 
 
 ### III.B. Bifurcation Principles Applied to Astrophysics
