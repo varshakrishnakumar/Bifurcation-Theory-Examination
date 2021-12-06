@@ -1,0 +1,10 @@
+plot-snapshots[src*='#left'] {
+    float: left;
+}
+plot-snapshots[src*='#right'] {
+    float: right;
+}
+plot-snapshots[src*='#center'] {
+    display: block;
+    margin: auto;
+}
